@@ -11,7 +11,7 @@ For **network drives** (NAS, QNAP, \\UNC paths), files are deleted permanently.
 Make sure you have [.NET 6 SDK](https://dotnet.microsoft.com/en-us/download) installed.
 
 ```bash
-git clone https://github.com/NinjaMinja/RecycleTool.git
+git clone https://github.com/NinjaMinjax/RecycleTool.git
 cd RecycleTool
 dotnet publish -c Release -r win-x64 --self-contained true
 
